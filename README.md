@@ -1,4 +1,4 @@
-# Contoso_Revenue_And_Customer_Retention_Analysis
+# Contoso Revenue and Customer Retention Analysis
 
 
 ## Overview
